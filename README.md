@@ -1,4 +1,3 @@
-
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -9,7 +8,7 @@
 
 💻 <b>Python • SQL • Power BI • Machine Learning</b>
 
-I'm a Computer Science postgraduate passionate about transforming raw data into meaningful insights through Data Analysis, Exploratory Data Analysis (EDA), Visualization, and Machine Learning.
+I'm a Computer Science postgraduate passionate about transforming raw data into meaningful insights through Data Analysis, Exploratory Data Analysis (DA), Visualization, and Machine Learning.
 
 I enjoy solving real-world business problems through practical projects and continuously improving my analytical skills.
 
