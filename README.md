@@ -67,8 +67,6 @@ I'm a Computer Science postgraduate passionate about transforming raw data into 
 
 <td width="45%" align="center">
 
-<img src="./data-aspirant-girl.png.png" width="420" alt="Data Science Girl"/>
-
 </td>
 
 </tr>
