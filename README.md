@@ -32,7 +32,7 @@ I enjoy solving real-world business problems through practical projects and cont
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/seema-data-science-aspirant.png"
+<img src="./assets/seema-data-science-aspirant.png.png"
      alt="Data Science Aspirant"
      width="100%"/>
 
